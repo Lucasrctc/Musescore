@@ -4,6 +4,7 @@ mp3/
 
 # Temp Files
 .*.mscz
+.mscbackup/
 
 # Misc
 **/*.txt
