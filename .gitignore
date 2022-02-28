@@ -1,0 +1,12 @@
+# Subfolders
+pdf/
+mp3/
+
+# Temp Files
+.*.mscz
+.mscbackup/
+
+# Misc
+**/*.txt
+**/*.pdf
+**/*.sh
